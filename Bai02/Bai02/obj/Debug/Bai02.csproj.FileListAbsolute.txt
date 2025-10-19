@@ -1,0 +1,7 @@
+C:\Users\THAIKHIEM\source\repos\Bai02\Bai02\bin\Debug\Bai02.exe.config
+C:\Users\THAIKHIEM\source\repos\Bai02\Bai02\bin\Debug\Bai02.exe
+C:\Users\THAIKHIEM\source\repos\Bai02\Bai02\bin\Debug\Bai02.pdb
+C:\Users\THAIKHIEM\source\repos\Bai02\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+C:\Users\THAIKHIEM\source\repos\Bai02\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+C:\Users\THAIKHIEM\source\repos\Bai02\Bai02\obj\Debug\Bai02.exe
+C:\Users\THAIKHIEM\source\repos\Bai02\Bai02\obj\Debug\Bai02.pdb
